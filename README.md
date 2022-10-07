@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Collins Adom Baffour</h1>
 <h3 align="center">A full stack developer from Ghana</h3>
 
